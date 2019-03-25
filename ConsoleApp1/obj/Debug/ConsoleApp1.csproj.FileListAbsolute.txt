@@ -1,0 +1,14 @@
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\C5.dll
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\Common.Logging.dll
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\Quartz.dll
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\Common.Logging.Core.dll
+D:\MyLianxi\QuartzTest\ConsoleApp1\bin\Debug\Quartz.pdb
+D:\MyLianxi\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\MyLianxi\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\MyLianxi\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\MyLianxi\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\MyLianxi\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\MyLianxi\Git\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\MyLianxi\Git\QuartzTest\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
