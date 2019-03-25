@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public int ReInt()
         {
-            return 1;
+            return 2;
         }
     }
 }
