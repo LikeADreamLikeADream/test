@@ -10,7 +10,7 @@ namespace ClassLibrary1
     {
         public string Str()
         {
-            return "测试通过。";
+            return "测试通过，";
         }
     }
 }
