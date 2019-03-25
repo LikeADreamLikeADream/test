@@ -13,7 +13,8 @@ namespace ConsoleApp1
         {
             Class1.Test2();
 
-            Console.WriteLine("");
+
+            Console.WriteLine("Test");
             Console.ReadLine();
         }
     }
