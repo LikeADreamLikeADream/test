@@ -17,5 +17,11 @@ namespace ConsoleApp1
             Console.WriteLine("Test");
             Console.ReadLine();
         }
+        
+        public static void Test()
+            {
+            string str="次方法是拉取代码后，第一次更改";
+
+          }
     }
 }
