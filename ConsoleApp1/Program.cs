@@ -23,5 +23,9 @@ namespace ConsoleApp1
             string str="次方法是拉取代码后，第一次更改";
 
           }
+        public static void TestTwo()
+            {
+             string str="此方法是拉取代码后，第二次更改";
+}
     }
 }
