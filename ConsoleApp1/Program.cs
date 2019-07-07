@@ -17,5 +17,9 @@ namespace ConsoleApp1
             Console.WriteLine("Test");
             Console.ReadLine();
         }
+        public static void Test()
+            {
+            string str="Uat分支拉取第一次修改";
+           }
     }
 }
