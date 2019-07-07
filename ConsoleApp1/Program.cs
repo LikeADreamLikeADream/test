@@ -21,5 +21,9 @@ namespace ConsoleApp1
             {
             string str="Uat分支拉取第一次修改";
            }
+        public static void TestTwo()
+        {
+            string str="Uat分支拉取第二次修改";
+        }
     }
 }
