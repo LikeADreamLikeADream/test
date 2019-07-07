@@ -25,5 +25,9 @@ namespace ConsoleApp1
         {
             string str="Uat分支拉取第二次修改";
         }
+        public static void TestS()
+        {
+            string Str="此方法是重置实验，重置后是否会返回上一个版本";
+        }   
     }
 }
