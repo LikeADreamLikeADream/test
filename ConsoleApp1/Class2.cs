@@ -17,6 +17,11 @@ public class Class1
         string ret = "";
         ret = "21341";
     }
+    public static string dfs()
+    {
+        string sdf = "";
+        return sdf;
+    }
 }
 
    
